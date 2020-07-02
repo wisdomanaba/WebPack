@@ -10,7 +10,7 @@ export default function Home() {
     const head = () => {
         return (
             <Helmet>
-                <title>Page Title</title>
+                <title>Home Title</title>
             </Helmet>
         )
     }
